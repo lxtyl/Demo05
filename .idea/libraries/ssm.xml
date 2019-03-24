@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="ssm">
+    <CLASSES>
+      <root url="file://E:/实训/IDEA/IDEA第9天/day09/4.资料/ssm" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://E:/实训/IDEA/IDEA第9天/day09/4.资料/ssm" />
+    </SOURCES>
+    <jarDirectory url="file://E:/实训/IDEA/IDEA第9天/day09/4.资料/ssm" recursive="false" />
+    <jarDirectory url="file://E:/实训/IDEA/IDEA第9天/day09/4.资料/ssm" recursive="false" type="SOURCES" />
+  </library>
+</component>
